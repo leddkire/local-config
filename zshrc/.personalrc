@@ -1,0 +1,7 @@
+alias fd="fdfind"
+alias i3conf="nvim ~/.config/i3/config"
+alias nvimconf="cd ~/.config/nvim/ ; nvim ."
+alias wezconf="nvim ~/.config/wezterm/wezterm.lua"
+alias flstudio="wine .wine/drive_c/Program\ Files/Image-Line/FL\ Studio\ 2025/FL64.exe"
+
+export GODOT_BIN="/usr/local/bin/godot"
